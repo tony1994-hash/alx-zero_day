@@ -1,1 +1,1 @@
-My readme updated
+My git has been merged and updated
